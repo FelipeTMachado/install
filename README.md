@@ -1,7 +1,17 @@
 # install
 
+Link IntelliJ
+https://download-cdn.jetbrains.com/idea/ideaIC-2025.1.1.1.exe
+
+Link Mandrel
+https://download-cdn.jetbrains.com/idea/ideaIC-2025.1.1.1.exe
+
+Link Gradle
+https://gradle.org/next-steps/?version=8.13&format=bin
+
 Link node
 https://nodejs.org/pt
 
 Link vscode
 https://code.visualstudio.com/
+
